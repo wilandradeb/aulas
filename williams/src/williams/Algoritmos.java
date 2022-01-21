@@ -6,6 +6,21 @@ public class Algoritmos {
 	
 	public static void main(String[] args) {
 		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
 		int a = 69;//Integer.parseInt(JOptionPane.showInputDialog("Inteiro A"));
 		int b = 52;//Integer.parseInt(JOptionPane.showInputDialog("Inteiro B"));
 		int c = 33;//Integer.parseInt(JOptionPane.showInputDialog("Inteiro C"));
